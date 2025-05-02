@@ -1,0 +1,3 @@
+Distance matrix should be reconstructed from the full tree. It's too  large to fit into a repository. Matrix should be named with suffix '_subtree_0.di_mtrx'. For example I 
+used the name 'astral.rand.lpp.r100_subtree_0.di_mtrx'
+
